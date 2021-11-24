@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mariano Perin (@marianoandresperin) from Argentina, a lawyer who recently became a Front End Developer.
 - 👀 I've been passionate about technology since I was a little boy, and just recently started to begin my journey.
-- 🌱 Currently learning Full Stack Development on Coder-House -an Argentina-based coding school-, looking forward to continuing nurturing my knowledge.
+- 🌱 Always open to get acquainted to new technologies, and nurturing my knowledge.
 - 💞️ I'm slowly building a portfolio of my own, while I would love to participate in other projects.
 - 📫 You can reach me on GitHub @marianoandresperin, on discord as Mariano#8414, or by e-mail to mariano.perin@gmail.com.
 
