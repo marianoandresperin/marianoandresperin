@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mariano Perin (@marianoandresperin) from Argentina, a lawyer who recently became a Front End Developer.
+- 👋 Hi, I’m Mariano Perin (@marianoandresperin) from Argentina, a Front End Developer trying to land his first job at the tech industry.
 - 😎 I've been passionate about technology since I was a little boy, and just recently started to begin my journey.
 - 🌱 Always open to get acquainted to new technologies, and nurturing my knowledge.
 - 🎈 I'm slowly building a portfolio of my own, while I would love to participate in other projects.
